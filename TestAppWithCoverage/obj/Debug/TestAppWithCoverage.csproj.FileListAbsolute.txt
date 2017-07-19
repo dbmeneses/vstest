@@ -1,0 +1,5 @@
+c:\Users\Duarte Meneses\Documents\Visual Studio 2017\Projects\TestAppWithCoverage\TestAppWithCoverage\bin\Debug\TestAppWithCoverage.exe.config
+c:\Users\Duarte Meneses\Documents\Visual Studio 2017\Projects\TestAppWithCoverage\TestAppWithCoverage\bin\Debug\TestAppWithCoverage.exe
+c:\Users\Duarte Meneses\Documents\Visual Studio 2017\Projects\TestAppWithCoverage\TestAppWithCoverage\bin\Debug\TestAppWithCoverage.pdb
+c:\Users\Duarte Meneses\Documents\Visual Studio 2017\Projects\TestAppWithCoverage\TestAppWithCoverage\obj\Debug\TestAppWithCoverage.exe
+c:\Users\Duarte Meneses\Documents\Visual Studio 2017\Projects\TestAppWithCoverage\TestAppWithCoverage\obj\Debug\TestAppWithCoverage.pdb
